@@ -9,6 +9,16 @@ module.exports = {
         discord_purple: "#5865f2",
         discord_green: "#3ba55c",
       },
+      // fontFamily:{
+      //   ginto:[
+      //    "Ginto Nord" , "Whitney", "Helvetica Neue" , "Helvetica" , "Arial" , "sans-serif"
+      //   ]
+      // }
+      fontFamily:{
+        ginto:[
+         "ginto"
+        ]
+      },
     },
   },
   plugins: [],

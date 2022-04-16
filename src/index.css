@@ -9,3 +9,9 @@
         @apply cursor-pointer font-semibold text-sm text-white hover:underline
     }
 }
+
+
+@font-face {
+    font-family: "ginto";
+    src: url("../fonts/Ginto-Nord-700.woff") format('woff');
+  }
